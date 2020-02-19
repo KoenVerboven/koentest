@@ -13,7 +13,7 @@ namespace packt_webapp.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","koud","zeer koud", "zeer warm","-20"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","koud","zeer koud", "zeer warm","-40"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
