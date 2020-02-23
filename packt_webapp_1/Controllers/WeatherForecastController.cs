@@ -21,7 +21,7 @@ namespace packt_webapp.Controllers
 
         private int bereken1(int getal1, int getal2)
         {
-            return getal1 + getal2;
+            return getal1 + getal2;//TestBranch2 //som
         }
 
 
