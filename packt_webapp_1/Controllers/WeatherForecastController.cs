@@ -26,7 +26,12 @@ namespace packt_webapp.Controllers
 
         private int berekenVerschil(int getal1, int getal2)
         {
-            return getal1 - getal2;//TestBranch2 //som
+            return getal1 - getal2;//TestBranch2 //verschil
+        }
+
+        private int berekenProdukt(int getal1, int getal2)
+        {
+            return getal1 * getal2;//TestBranch2 //produkt
         }
 
         private readonly ILogger<WeatherForecastController> _logger;
