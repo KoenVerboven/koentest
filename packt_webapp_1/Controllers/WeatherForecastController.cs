@@ -35,21 +35,21 @@ namespace packt_webapp.Controllers
             return getal1 * getal2;//TestBranch2 //produkt
         }
 
-<<<<<<< HEAD
 
         private function1()
         {
             return1;
         }
 
-        private function2()
+        private int function2()
         {
             return2;
-=======
+        }
+
         private int return3()
         {
             return 3;
->>>>>>> Testbranch2
+
         }
 
         private readonly ILogger<WeatherForecastController> _logger;
