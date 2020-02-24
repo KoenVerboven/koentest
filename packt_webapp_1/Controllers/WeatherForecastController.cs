@@ -39,6 +39,11 @@ namespace packt_webapp.Controllers
             return 3;
         }
 
+        private int function9()
+        {
+            return 9;
+        }
+
         private readonly ILogger<WeatherForecastController> _logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
