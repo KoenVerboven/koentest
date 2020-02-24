@@ -36,6 +36,16 @@ namespace packt_webapp.Controllers
         }
 
 
+        private function1()
+        {
+            return1;
+        }
+
+        private function2()
+        {
+            return2;
+        }
+
         private readonly ILogger<WeatherForecastController> _logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
