@@ -21,12 +21,8 @@ namespace packt_webapp.Controllers
 
         private int bereken1(int getal1, int getal2)
         {
-<<<<<<< .merge_file_a12380
-            return getal1 / getal2;
-        }
 
-=======
-            return getal1 + getal2;//TestBranch2 //som
+           return getal1 + getal2;//TestBranch2 //som
         }
 
         private int berekenVerschil(int getal1, int getal2)
@@ -38,8 +34,49 @@ namespace packt_webapp.Controllers
         {
             return getal1 * getal2;//TestBranch2 //produkt
         }
->>>>>>> .merge_file_a16492
 
+
+        private function1()
+        {
+            return1;
+        }
+
+        private int function2()
+        {
+            return2;
+        }
+
+        private int return3()
+        {
+            return 3;
+
+        }
+
+<<<<<<< .merge_file_a02224
+
+        private int function5()
+        {
+            return 5;
+        }
+
+        private int function6()
+        {
+            return 6;
+        }
+
+
+=======
+        private int function9()
+        {
+            return 9;
+        }
+
+        private int function10()
+        {
+            return 10;
+        }
+
+>>>>>>> .merge_file_a12160
         private readonly ILogger<WeatherForecastController> _logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
