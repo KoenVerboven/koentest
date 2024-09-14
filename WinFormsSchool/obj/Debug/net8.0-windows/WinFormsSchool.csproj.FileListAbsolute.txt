@@ -1,0 +1,82 @@
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.exe
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.deps.json
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.runtimeconfig.json
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.dll
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.GenerateResource.cache
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AssemblyInfo.cs
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.dll
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\refint\WinFormsSchool.dll
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.genruntimeconfig.cache
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\ref\WinFormsSchool.dll
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.AssemblyReference.cache
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\AppCode.dll
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\AppCode.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.CopyComplete
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.MainForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.SchoolArticleForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.SchoolArticleSearchForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.StudentSearchForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.StudentForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.TeacherSearchForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.TeacherForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.exe
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.deps.json
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.runtimeconfig.json
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.pdb
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\AppCode.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\AppCode.pdb
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.AssemblyReference.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.MainForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.SchoolArticleForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.SchoolArticleSearchForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.StudentForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.StudentSearchForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.TeacherForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.TeacherSearchForm.resources
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.GenerateResource.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AssemblyInfo.cs
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.CopyComplete
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\refint\WinFormsSchool.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.pdb
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.genruntimeconfig.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\ref\WinFormsSchool.dll
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AboutForm.resources
+C:\Users\koenv\source\repos\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.InfoForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.exe
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.deps.json
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.runtimeconfig.json
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\WinFormsSchool.pdb
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\AppCode.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\bin\Debug\net8.0-windows\AppCode.pdb
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.AssemblyReference.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AboutForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.InfoForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.MainForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.SchoolArticleForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.SchoolArticleSearchForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.StudentForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.StudentSearchForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.TeacherForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.TeacherSearchForm.resources
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.GenerateResource.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.AssemblyInfo.cs
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.csproj.CopyComplete
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\refint\WinFormsSchool.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.pdb
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\WinFormsSchool.genruntimeconfig.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\WinFormsSchool\obj\Debug\net8.0-windows\ref\WinFormsSchool.dll
