@@ -1,0 +1,11 @@
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\BLL.deps.json
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\BLL.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\BLL.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\BLL.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\BLL.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\ref\BLL.dll

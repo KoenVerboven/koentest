@@ -1,0 +1,33 @@
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.deps.json
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.AssemblyInfo.cs
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\refint\AppCode.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\ref\AppCode.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.deps.json
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.pdb
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.AssemblyInfo.cs
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\refint\AppCode.dll
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.pdb
+C:\Users\koenv\source\repos\school fase1\WinFormsSchool\Persistent\obj\Debug\net8.0\ref\AppCode.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.deps.json
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\bin\Debug\net8.0\AppCode.pdb
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.AssemblyInfo.cs
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\refint\AppCode.dll
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\AppCode.pdb
+C:\Users\koenv\source\repos\C# SchoolApp\WinFormsSchool\Persistent\obj\Debug\net8.0\ref\AppCode.dll

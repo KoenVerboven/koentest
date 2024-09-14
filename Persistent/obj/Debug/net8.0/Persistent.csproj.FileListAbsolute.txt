@@ -1,0 +1,11 @@
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\Persistent.deps.json
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\Persistent.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\bin\Debug\net8.0\Persistent.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\Persistent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\Persistent.AssemblyInfoInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\Persistent.AssemblyInfo.cs
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\Persistent.csproj.CoreCompileInputs.cache
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\Persistent.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\refint\Persistent.dll
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\Persistent.pdb
+C:\Users\koenv\source\repos\WinFormsSchool\Persistent\obj\Debug\net8.0\ref\Persistent.dll
